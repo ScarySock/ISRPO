@@ -9,3 +9,14 @@ D:\Stupid Collage\ИСРПО\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.AssemblyI
 D:\Stupid Collage\ИСРПО\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.AssemblyInfo.cs
 D:\Stupid Collage\ИСРПО\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.dll
 D:\Stupid Collage\ИСРПО\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.pdb
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\bin\Debug\netcoreapp2.1\Timer.deps.json
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\bin\Debug\netcoreapp2.1\Timer.runtimeconfig.json
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\bin\Debug\netcoreapp2.1\Timer.runtimeconfig.dev.json
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\bin\Debug\netcoreapp2.1\Timer.dll
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\bin\Debug\netcoreapp2.1\Timer.pdb
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.csprojAssemblyReference.cache
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.csproj.CoreCompileInputs.cache
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.AssemblyInfoInputs.cache
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.AssemblyInfo.cs
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.dll
+D:\Stupid Collage\ИСРПО\LR1\Timer\Timer\obj\Debug\netcoreapp2.1\Timer.pdb

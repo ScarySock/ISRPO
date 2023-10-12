@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Stupid Collage\\ИСРПО\\Timer\\Timer\\Timer.csproj",
+      "projectUniqueName": "D:\\Stupid Collage\\ИСРПО\\LR1\\Timer\\Timer\\Timer.csproj",
       "projectName": "Timer",
-      "projectPath": "D:\\Stupid Collage\\ИСРПО\\Timer\\Timer\\Timer.csproj",
+      "projectPath": "D:\\Stupid Collage\\ИСРПО\\LR1\\Timer\\Timer\\Timer.csproj",
       "packagesPath": "C:\\Users\\429196-12\\.nuget\\packages\\",
-      "outputPath": "D:\\Stupid Collage\\ИСРПО\\Timer\\Timer\\obj\\",
+      "outputPath": "D:\\Stupid Collage\\ИСРПО\\LR1\\Timer\\Timer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

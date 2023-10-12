@@ -30,7 +30,7 @@ namespace ConsoleApp1
             Timer t = new Timer();
             Console.WriteLine("Сейчас запустим таймер и паузу в 1 сек.");
             t.Start();
-            System.Threading.Thread.Sleep(1000);
+            System.Threading.Thread.Sleep(10000);
             double time = t.Stop();
             Console.WriteLine("Измеренное время = " + time + " мс");
         }
