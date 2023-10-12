@@ -1,0 +1,11 @@
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.deps.json
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.runtimeconfig.json
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.runtimeconfig.dev.json
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.dll
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.pdb
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.csprojAssemblyReference.cache
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.csproj.CoreCompileInputs.cache
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.AssemblyInfoInputs.cache
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.AssemblyInfo.cs
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.dll
+D:\Stupid Collage\ИСРПО\Rectangle\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.pdb
